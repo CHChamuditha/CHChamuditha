@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Hashan Chamuditha and I'm a 13 Years Old,from Sri Lanka🇱🇰</h1>
+<h1 align="center">Hi👋! My name is Hashan Chamuditha and I'm a 13 Years Old,from Sri Lanka🇱🇰</h1>
 
 ###
 
